@@ -1,0 +1,11 @@
+{
+    "file_paths": {
+        "input_directory": "input",
+        "output_directory": "output"
+    },
+    "api_config": {
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "api_key": "your_api_key_here",
+        "model": "qwen-max"
+    }
+}
